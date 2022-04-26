@@ -3,3 +3,4 @@ Text one.
 Edit Second.
 Edit Third.
 add master
+add hot-fix
